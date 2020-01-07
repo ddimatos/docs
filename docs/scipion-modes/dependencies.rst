@@ -61,7 +61,8 @@ Note: We have observed that libjbig.so.0 is not found in OpenSUSE42.3. However, 
 
   yum install gcc gcc-g++ cmake java-1.8.0-openjdk-devel.x86_64 libXft-devel.x86_64\
    openssl-devel.x86_64 libXext-devel.x86_64  libxml++.x86_64 libquadmath-devel.x86_64\
-   libxslt.x86_64 openmpi-devel.x86_64  gsl-devel.x86_64  libX11.x86_64  gcc-gfortran.x86_64 git
+   libxslt.x86_64 openmpi-devel.x86_64  gsl-devel.x86_64  libX11.x86_64  gcc-gfortran.x86_64\
+   fftw-devel.x86_64 scons git
 
 Note: Use **dnf install** instead of **yum** if your Fedora is recent
 
